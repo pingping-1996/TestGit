@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NtengxunListRe">
+    <output-path>$PROJECT_DIR$/classes/artifacts/NtengxunListRe</output-path>
+    <root id="archive" name="NtengxunListRe.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="bfd">
+          <element id="directory" name="parse">
+            <element id="directory" name="reprocess">
+              <element id="file-copy" path="$PROJECT_DIR$/bin/com/bfd/parse/reprocess/NtengxunListRe.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

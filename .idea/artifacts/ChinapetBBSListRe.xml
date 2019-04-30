@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChinapetBBSListRe">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ChinapetBBSListRe</output-path>
+    <root id="archive" name="ChinapetBBSListRe.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="bfd">
+          <element id="directory" name="parse">
+            <element id="directory" name="reprocess">
+              <element id="file-copy" path="$PROJECT_DIR$/bin/com/bfd/parse/reprocess/ChinapetBBSListRe.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

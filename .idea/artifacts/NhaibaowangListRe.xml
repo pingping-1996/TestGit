@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NhaibaowangListRe">
+    <output-path>$PROJECT_DIR$/classes/artifacts/NhaibaowangListRe</output-path>
+    <root id="archive" name="NhaibaowangListRe.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="bfd">
+          <element id="directory" name="parse">
+            <element id="directory" name="reprocess">
+              <element id="file-copy" path="$PROJECT_DIR$/bin/com/bfd/parse/reprocess/NhaibaowangListRe.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NchinadailyListRe">
+    <output-path>$PROJECT_DIR$/classes/artifacts/NchinadailyListRe</output-path>
+    <root id="archive" name="NchinadailyListRe.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="bfd">
+          <element id="directory" name="parse">
+            <element id="directory" name="reprocess">
+              <element id="file-copy" path="$PROJECT_DIR$/bin/com/bfd/parse/reprocess/NchinadailyListRe.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

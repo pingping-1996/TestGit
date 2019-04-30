@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoginBxcar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/LoginBxcar</output-path>
+    <root id="archive" name="LoginBxcar.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="bfd">
+          <element id="directory" name="crawler">
+            <element id="directory" name="login">
+              <element id="file-copy" path="$PROJECT_DIR$/bin/com/bfd/crawler/login/LoginBxcar.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
